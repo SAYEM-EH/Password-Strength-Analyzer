@@ -77,7 +77,6 @@
 
    https://github.com/SAYEM-EH/Password-Strength-Analyzer.git
 
-   cd SAYEM.P7
 
    ```
 
