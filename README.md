@@ -75,7 +75,7 @@
 
    ```bash
 
-   git clone https://github.com/YOUR_USERNAME/SAYEM.P7.git
+   https://github.com/SAYEM-EH/Password-Strength-Analyzer.git
 
    cd SAYEM.P7
 
